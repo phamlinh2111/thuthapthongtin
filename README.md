@@ -2,7 +2,6 @@
 # Giới thiệu
 Ứng dụng giúp thu thập thông tin và tổng hợp lại
 # Demo
-![Mô tả ảnh](image/th1.png)
-![Mô tả ảnh](image/th1.png)
-#Tác giả
+<img src="image/th1.png" alt="Mô tả ảnh" width="200"/><img src="image/th2.png" alt="Mô tả ảnh" width="200"/>
+# Tác giả
 21200124 - Phạm Khánh Linh
