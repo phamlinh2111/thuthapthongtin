@@ -2,6 +2,6 @@
 # Giới thiệu
 Ứng dụng giúp thu thập thông tin và tổng hợp lại
 # Demo
-<img src="image/th1.png" alt="Mô tả ảnh" width="200"/><img src="image/th2.png" alt="Mô tả ảnh" width="185"/>
+<img src="image/th1.png" alt="Mô tả ảnh" width="200"/><img src="image/th2.png" alt="Mô tả ảnh" width="190"/>
 # Tác giả
 21200124 - Phạm Khánh Linh
